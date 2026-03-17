@@ -48,7 +48,7 @@ export default function SolarExplorerPage() {
             { text: "Learn More", href: "#about" }
           ]}
           buttonAnimation="slide-up"
-          background={{ variant: "aurora" }}
+          background={{ variant: "plain" }}
           imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3B4OIPc67qHuCTwEeieayWOrCFc/a-stunning-3d-rendered-scene-of-the-sola-1773744888485-ae2512b7.png"
           imageAlt="3D Solar System with Rotating Planets"
           mediaAnimation="slide-up"
@@ -208,7 +208,7 @@ export default function SolarExplorerPage() {
           description="Subscribe to receive educational updates, new planet data, and exclusive features as we expand the solar system explorer."
           tagIcon={Mail}
           tagAnimation="slide-up"
-          background={{ variant: "aurora" }}
+          background={{ variant: "plain" }}
           useInvertedBackground={false}
           inputPlaceholder="your@email.com"
           buttonText="Explore Together"
